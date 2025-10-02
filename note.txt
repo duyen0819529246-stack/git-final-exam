@@ -1,0 +1,3 @@
+- Cảm nhận 1: Git giúp quản lý mã nguồn hiệu quả.
+- Cảm nhận 2: Git hỗ trợ làm việc nhóm.
+- Cảm nhận 3: Git có nhiều lệnh cần thực hành hàng ngày.
