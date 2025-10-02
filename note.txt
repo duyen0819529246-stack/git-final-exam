@@ -1,3 +1,5 @@
+- Cảm nhận mới 1: Git rất mạnh khi xử lý nhánh.
+- Cảm nhận mới 2: Git giúp code an toàn hơn.
 - Cảm nhận 1: Git giúp quản lý mã nguồn hiệu quả.
 - Cảm nhận 2: Git hỗ trợ làm việc nhóm.
 - Cảm nhận 3: Git có nhiều lệnh cần thực hành hàng ngày.
