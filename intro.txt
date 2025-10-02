@@ -6,3 +6,10 @@ Sở thích:
 - Đọc sách
 - Makeup
 Kỹ năng:
+- Sử dụng Git và GitHub
+- Lập trình Python
+- Làm việc nhóm
+Mình đang theo học tại Trường Đại học Nam Cần Thơ.
+Mục tiêu của mình là trở thành lập trình viên phần mềm.
+Mình luôn nỗ lực rèn luyện kỹ năng và học công nghệ mới.
+Mình tin rằng kiên trì và học hỏi sẽ giúp mình thành công.
